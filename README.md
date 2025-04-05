@@ -2,4 +2,4 @@
 
 # flow chart for Sudoku puzzle
 
-![Sudoku flowChart drawio](https://github.com/user-attachments/assets/5c0cb80e-c27d-40f5-9777-48fe953e1f42)
+![Sudoku Pazzel](https://github.com/user-attachments/assets/6ae04d46-00f0-4a8d-bf12-3fc5f20f296d)
